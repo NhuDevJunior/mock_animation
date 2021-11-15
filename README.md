@@ -3,3 +3,4 @@
 - animation seekbar
 - animation rolling number
 - using viewmodel, coroutine
+- using customview recyclerview
