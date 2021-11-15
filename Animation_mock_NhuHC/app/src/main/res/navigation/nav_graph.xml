@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/expenditureFragment">
+
+    <fragment
+        android:id="@+id/expenditureFragment"
+        android:name="com.example.animation_mock_nhuhc.fragment.ExpenditureFragment"
+        android:label="fragment_expenditure"
+        tools:layout="@layout/fragment_expenditure" />
+</navigation>
